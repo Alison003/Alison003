@@ -1,6 +1,7 @@
 ### Hi there 👋
 - I am a Senior Computer Science student at Seattle Pacific University and expecting my B.S. in Spring 2023. Currently I am the UI/UX designer and frontend developer for a senior software engineering project at SPU called Mix, where we created a more ethical social media platform. 
 - In Fall 2023 I will begin earning my MCS at Georgia Tech.
+***
 
 ### My Skills
 - Experience in C++, Java, Python, Markdown, HTML/CSS, C, JavaScript, SQL
